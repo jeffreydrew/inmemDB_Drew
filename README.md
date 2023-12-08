@@ -1,7 +1,7 @@
 # In Memory Database
 
 ## Description
-There is no set up needed and the project does not rely on external db files, the file is ready to run as is.
+There is no set up needed and the project does not rely on external db files, the core.py file is ready to run as is.
 
 
 All functions print a brief description of the action they are performing.
